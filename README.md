@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **nanduramineni2233@gmai.com**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Nandu%20Ramineni.pdf?alt=media&token=2a92cc34-2172-44be-968e-253320cff241](https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Nandu%20Ramineni.pdf?alt=media&token=2a92cc34-2172-44be-968e-253320cff241)
+- 📄 Know about my experiences [http://lnkiy.in/View-Resume](http://lnkiy.in/View-Resume)
 
 - ⚡ Fun fact **Iam Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nanduvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanduvarma" height="30" width="40" /></a>
+<a href="https://twitter.com/nanduvarma13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanduvarma13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramineni-nandu-varma-85a226251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramineni-nandu-varma-85a226251" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/nanduvarma__?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/nanduvarma__?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@nandu_varma?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@nandu_varma?feature=shared" height="30" width="40" /></a>
