@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,J2EE**
 
-- 📫 How to reach me **nanduramineni2233@gmai.com**
+- 📫 How to reach me **nanduramineni2233@gmail.com**
 
 - 📄 Know about my experiences [http://lnkiy.in/View-Resume](http://lnkiy.in/View-Resume)
 
