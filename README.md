@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-ramineni&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-ramineni" /> </p>
 <img img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
-- 🔭 I’m currently working on **AI-Medical Diagosis**
+- 🔭 I’m currently working on **AI-Powered Medical Diagnosis**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
