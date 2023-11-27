@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Banking Bot App**
   
 - 👨‍💻 All of my projects are available at [https://nanduvarmaportfolio.netlify.app/](https://nanduvarmaportfolio.netlify.app/)
-- 
+  
 - 💬 Ask me about **React,J2EE**
 
 - 📫 How to reach me **nanduramineni2233@gmail.com**
