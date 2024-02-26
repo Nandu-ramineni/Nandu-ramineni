@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://github.com/Nandu-ramineni)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)](https://github.com/Nandu-ramineni)
 <h1 align="center">Hi 👋, I'm Nandu Ramineni</h1>
 <h3 align="center">I'm a passionate web developer and graphic designer from Hyderabad with expertise in a variety of technologies</h3>
 
