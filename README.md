@@ -3,6 +3,7 @@
 "center">Hi 👋!
 , I'm Nandu Ramineni</h1>
 <h3 align="center">I'm a passionate web developer and graphic designer from Hyderabad with expertise in a variety of technologies</h3>
+![IMG_7090](https://github.com/Nandu-ramineni/Nandu-ramineni/assets/123319320/f93e7375-b06c-4fc0-8e2e-baaaf7504901)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-ramineni&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-ramineni" /> </p>
 <img img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
