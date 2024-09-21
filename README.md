@@ -1,5 +1,5 @@
 # 💫 About Me:
-Proficient in Full Stack MERN development with expertise in web development and graphic design. Eager to apply academic trainingand hands-on experience to contribute effectively to dynamic digital projects. Dedicated to expanding knowledge in JavaScriptframeworks and delivering innovative solutions in a collaborative environment.
+Hi👋 Myself Nandu Varma Ramineni from Hyderabad. Proficient in Full Stack MERN development with expertise in web development and graphic design. Eager to apply academic training and hands-on experience to contribute effectively to dynamic digital projects. Dedicated to expanding knowledge in JavaScriptframeworks and delivering innovative solutions in a collaborative environment.
 
 
 ## 🌐 Socials:
