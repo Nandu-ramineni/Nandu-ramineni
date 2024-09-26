@@ -18,7 +18,7 @@ Hi👋 I'm Nandu Varma Ramineni from Hyderabad. Proficient in Full Stack MERN de
 ![](https://github-contributor-stats.vercel.app/api?username=Nandu-Ramineni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🔗 Check Out:
-- 🌐 [Portfolio](https://nanduvarmaportfolio.netlify.app/) 🌍
+- 🌐 [Portfolio](https://nanduvarma.netlify.app/) 🌍
 - 📄 [Resume](https://rb.gy/aqvpui) 📝
 - 🏆 [GitHub Contributions](https://github.com/Nandu-Ramineni) 🔥
   
