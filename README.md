@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi👋 I'm Nandu Varma Ramineni from Hyderabad. Proficient in Full Stack MERN development with expertise in web development and graphic design. Eager to apply academic training and hands-on experience to contribute effectively to dynamic digital projects. Dedicated to expanding knowledge in JavaScript frameworks and delivering innovative solutions in a collaborative environment. 
+# 👋 Hi, I'm **Nandu Varma**
+
+
+**Full-Stack Developer | AI Enthusiast | Cloud-Ready Engineer**  
+Focused on building scalable systems, clean UI, and practical AI solutions.
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nandu-varma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandu-varma-85a226251) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nandu_Varma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nanduvarma__) 
