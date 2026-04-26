@@ -22,7 +22,7 @@
 ```javascript
 const nandu = {
   name: "Ramineni Nandu Varma",
-  location: "Hyderabad, India 🇮🇳",
+  location: "Dublin, Ireland",
   role: "Full-Stack Developer",
   stack: ["React", "Node.js", "MongoDB", "Express"],
   expertise: ["Microservices", "Real-time Apps", "Cloud Architecture"],
