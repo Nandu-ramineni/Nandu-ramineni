@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nandu.work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.nandu.work/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandu-ramineni-85a226251/)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rb.gy/aqvpui)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1O145LNUYDiP0qFkPu7zl0iRaNEthN_F9/view?usp=sharing)
 [![X](https://img.shields.io/badge/X-@Nanduvarma13-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nanduvarma13)
 
 </div>
